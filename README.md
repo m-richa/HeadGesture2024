@@ -1,1 +1,1 @@
-# Virtual_Head_Avatar
+# Head gesture CVPR 2024 official code (Coming soon)
